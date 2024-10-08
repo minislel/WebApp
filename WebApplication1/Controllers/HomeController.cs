@@ -13,6 +13,10 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
@@ -20,6 +24,44 @@ namespace WebApplication1.Controllers
 
         public IActionResult Privacy()
         {
+            return View();
+        }
+        public IActionResult Calculator(string op, double? a, double? b)
+        {
+            if (a is null || b is null)
+            {
+                ViewBag.ErrorMessage = "Niepoprawny format liczby";
+                return View("CustomError");
+            }
+
+            ViewBag.op = op;
+            ViewBag.a = a; 
+            ViewBag.b = b;
+            
+                switch(op)
+            {
+
+                case "add":
+                    ViewBag.result = a+b;
+                    ViewBag.op = "+";
+                    break;
+                case "sub":
+                    ViewBag.result = a - b;
+                    ViewBag.op = "-";
+                    break;
+                case "mul":
+                    ViewBag.result = a * b;
+                    ViewBag.op = "×";
+                    break;
+                case "div":
+                    ViewBag.result = a / b;
+                    ViewBag.op = "÷";
+                    break;
+                default:
+                    ViewBag.ErrorMessage = "Niepoprawny znak dzialania";
+                    return View("CustomError");
+                    
+            }
             return View();
         }
 

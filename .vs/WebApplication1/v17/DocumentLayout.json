@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\shared\\customerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\customerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\home\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomError.cshtml",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Shared\\CustomError.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\CustomError.cshtml",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Shared\\CustomError.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\CustomError.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T11:02:57.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Home\\Calculator.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Home\\Calculator.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Calculator.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T10:40:20.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T10:35:28.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T10:31:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:25:10.651Z",
+              "EditorCaption": ""
             }
           ]
         }
