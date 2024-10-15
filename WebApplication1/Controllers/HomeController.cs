@@ -26,8 +26,13 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
-        public IActionResult Calculator(string op, double? a, double? b)
+/*        public IActionResult Calculator(Operator? op, double? a, double? b)
         {
+            if(op is null)
+            {
+                ViewBag.ErrorMessage = "Niepoprawny format operatora";
+                return View("CustomError");
+            }
             if (a is null || b is null)
             {
                 ViewBag.ErrorMessage = "Niepoprawny format liczby";
@@ -41,19 +46,19 @@ namespace WebApplication1.Controllers
                 switch(op)
             {
 
-                case "add":
+                case Operator.add:
                     ViewBag.result = a+b;
                     ViewBag.op = "+";
                     break;
-                case "sub":
+                case Operator.sub:
                     ViewBag.result = a - b;
                     ViewBag.op = "-";
                     break;
-                case "mul":
+                case Operator.mul:
                     ViewBag.result = a * b;
                     ViewBag.op = "×";
                     break;
-                case "div":
+                case Operator.div:
                     ViewBag.result = a / b;
                     ViewBag.op = "÷";
                     break;
@@ -63,12 +68,16 @@ namespace WebApplication1.Controllers
                     
             }
             return View();
-        }
+        }*/
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+        public enum Operator 
+        { 
+        mul, div, add, sub
         }
     }
 }
