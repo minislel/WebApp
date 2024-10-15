@@ -4,8 +4,11 @@
     {
         public string Name { get; set; }
         public DateTime Date { get; set; }
-        public bool isValid => Name != null && Date != null;
+        public int Years => (int)( DateTime.Now - Date).TotalDays / 365;
 
-        public int Years => (int)(Date - DateTime.Now).TotalDays / 365;
+        public bool isValid()
+        {
+            return Name != null && Name != String.Empty;
+        }
     }
 }
