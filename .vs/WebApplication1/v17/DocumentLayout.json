@@ -54,8 +54,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Birth\\Result.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T12:27:17.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T12:27:17.237Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Birth\\Form.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T12:26:10.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T12:26:10.726Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Birth.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAzwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T11:02:01.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T11:02:01.315Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Calculator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:40:31.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T10:40:31.23Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\CalculatorController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:02:28.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T10:02:28.212Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\CustomError.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T11:02:57.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T11:02:57.993Z"
             }
           ]
         }
