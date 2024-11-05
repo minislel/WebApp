@@ -3,8 +3,11 @@ using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication1.Models
 {
+
     public class ContactModel
     {
+        [Display(Name = "Priorytet")]
+        public string Priority { get; set; }
         [HiddenInput]
         public int Id { get; set; }
         [Required(ErrorMessage = "Imie nie moze byc puste")]
@@ -27,5 +30,6 @@ namespace WebApplication1.Models
         [Required(ErrorMessage = "Data urodzenia nie moze byc pusta")]
         [DataType(DataType.Date)]
         public DateOnly BirthDate { get; set; }
+
     }
 }

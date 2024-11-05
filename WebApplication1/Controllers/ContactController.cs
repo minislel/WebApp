@@ -5,6 +5,13 @@ namespace WebApplication1.Controllers
 {
     public class ContactController : Controller
     {
+
+        private readonly IContactService _contactService;
+
+        public ContactController(IContactService contactService)
+        {
+            _contactService = contactService;
+        }
         private static Dictionary<int, ContactModel> _contacts = new Dictionary<int, ContactModel>()
         {
             {1, new() {Id=1, Email = "ssdt@wp.pl", FirstName = "Adam", LastName = "Mickiewicz", BirthDate = new DateOnly(2000,11,11) } }
@@ -15,7 +22,7 @@ namespace WebApplication1.Controllers
         private static int currentId = _contacts.Count;
         public IActionResult Index()
         {
-            return View(_contacts);
+            return View(_contactService.FindAll());
         }
         public ActionResult Add() 
         { 
@@ -29,13 +36,23 @@ namespace WebApplication1.Controllers
                 return View(model);
             }
             model.Id = ++currentId;
-            _contacts.Add(model.Id, model);
+            _contactService.Add(model);
 
-            return View("Index", _contacts);
+            return View("Index", _contactService);
         }
         public ActionResult Edit(int id)
         {
-            return View("Add", _contacts[id]);
+            return View("Edit", _contactService.FindById(id));
+        }
+        [HttpPost]
+        public ActionResult Edit(ContactModel model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(model);
+            }
+            _contactService.Update(model);
+            return View("Index", _contactService.FindAll());
         }   
         public ActionResult Delete(int id)
         {
