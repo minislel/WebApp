@@ -18,7 +18,7 @@ namespace WebApplication1
             builder.Services.AddControllersWithViews();
 
             // Register IContactService with the dependency injection container
-            builder.Services.AddScoped<IContactService, MemoryContactService>();
+            
 
             var app = builder.Build();
 

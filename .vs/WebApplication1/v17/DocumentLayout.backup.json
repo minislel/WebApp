@@ -3,68 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\efcontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\efcontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\memorycontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\memorycontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\models\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\birth\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\birth\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF8BE371-DE2B-4244-A67C-9BCB36B925C2}|WebApplication1\\WebApplication1.csproj|c:\\users\\marci\\desktop\\projekty studia\\webapplication1\\webapplication1\\views\\birth\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,199 +38,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Program.cs*",
+              "RelativeToolTip": "WebApplication1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T11:06:29.613Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ContactMapper.cs",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\ContactMapper.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\ContactMapper.cs",
               "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\ContactMapper.cs",
               "RelativeToolTip": "WebApplication1\\Models\\ContactMapper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:36:09.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EFContactService.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\EFContactService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\EFContactService.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\EFContactService.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\EFContactService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwB0AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:34:53.049Z",
+              "WhenOpened": "2024-11-05T11:36:09.972Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:30:13.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MemoryContactService.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\MemoryContactService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\MemoryContactService.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\MemoryContactService.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\MemoryContactService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:18:17.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:17:15.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IContactService.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\IContactService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\IContactService.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\IContactService.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\IContactService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:16:13.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContactEntity.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\ContactEntity.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ContactEntity.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\ContactEntity.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ContactEntity.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:05:04.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Priority.cs",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\Priority.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Priority.cs",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\Priority.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Priority.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:03:57.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Contact\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Edit.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Contact\\Edit.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T12:31:39.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Contact\\Details.cshtml",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Details.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Contact\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T11:09:58.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T10:29:55.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCIAAABwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T10:28:39.061Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Add.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Contact\\Add.cshtml",
-              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Contact\\Add.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Contact\\Add.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T10:22:10.319Z",
+              "Title": "MemoryContactService.cs",
+              "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\MemoryContactService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\MemoryContactService.cs",
+              "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\MemoryContactService.cs*",
+              "RelativeToolTip": "WebApplication1\\Models\\MemoryContactService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:18:17.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "ContactModel.cs",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\ContactModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\ContactModel.cs",
               "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Models\\ContactModel.cs",
               "RelativeToolTip": "WebApplication1\\Models\\ContactModel.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:07:50.965Z"
+              "WhenOpened": "2024-10-22T10:07:50.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ContactController.cs",
               "ToolTip": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Controllers\\ContactController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:02:46.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "Result.cshtml",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Birth\\Result.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Birth\\Result.cshtml",
@@ -282,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "Form.cshtml",
               "DocumentMoniker": "C:\\Users\\marci\\Desktop\\projekty studia\\WebApplication1\\WebApplication1\\Views\\Birth\\Form.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Birth\\Form.cshtml",
