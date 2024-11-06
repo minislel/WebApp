@@ -7,7 +7,7 @@ namespace WebApplication1.Models
     public class ContactModel
     {
         [Display(Name = "Priorytet")]
-        public string Priority { get; set; }
+        public Priority Priority { get; set; }
         [HiddenInput]
         public int Id { get; set; }
         [Required(ErrorMessage = "Imie nie moze byc puste")]

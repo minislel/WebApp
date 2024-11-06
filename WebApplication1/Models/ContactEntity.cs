@@ -20,5 +20,6 @@ namespace WebApplication1.Models
 
         public DateOnly BirthDate { get; set; }
         public DateTime Created { get; set; }
+        public Priority Priority { get; set; }
     }
 }

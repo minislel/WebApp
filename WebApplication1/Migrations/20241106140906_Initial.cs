@@ -22,7 +22,8 @@ namespace WebApplication1.Migrations
                     Email = table.Column<string>(type: "TEXT", nullable: false),
                     PhoneNumber = table.Column<string>(type: "TEXT", nullable: false),
                     BirthDate = table.Column<DateOnly>(type: "TEXT", nullable: false),
-                    Created = table.Column<DateTime>(type: "TEXT", nullable: false)
+                    Created = table.Column<DateTime>(type: "TEXT", nullable: false),
+                    Priority = table.Column<int>(type: "INTEGER", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -31,8 +32,8 @@ namespace WebApplication1.Migrations
 
             migrationBuilder.InsertData(
                 table: "Contacts",
-                columns: new[] { "Id", "BirthDate", "Created", "Email", "FirstName", "LastName", "PhoneNumber" },
-                values: new object[] { 1, new DateOnly(2000, 11, 11), new DateTime(2024, 11, 5, 13, 1, 14, 925, DateTimeKind.Local).AddTicks(9294), "jankowalski@op.pl", "Jan", "Kowalski", "123 456 789" });
+                columns: new[] { "Id", "BirthDate", "Created", "Email", "FirstName", "LastName", "PhoneNumber", "Priority" },
+                values: new object[] { 1, new DateOnly(2000, 11, 11), new DateTime(2024, 11, 6, 15, 9, 5, 817, DateTimeKind.Local).AddTicks(9620), "jankowalski@op.pl", "Jan", "Kowalski", "123 456 789", 3 });
         }
 
         /// <inheritdoc />

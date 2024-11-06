@@ -12,6 +12,7 @@
                 Email = entity.Email,
                 PhoneNumber = entity.PhoneNumber,
                 BirthDate = entity.BirthDate,
+                Priority = entity.Priority
 
             };
         }
@@ -25,7 +26,7 @@
                 Email = model.Email,
                 PhoneNumber = model.PhoneNumber,
                 BirthDate = model.BirthDate,
-
+                Priority = model.Priority
             };
         }
     }

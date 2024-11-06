@@ -11,7 +11,7 @@ using WebApplication1.Models;
 namespace WebApplication1.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241105120116_Initial")]
+    [Migration("20241106140906_Initial")]
     partial class Initial
     {
         /// <inheritdoc />
@@ -50,6 +50,9 @@ namespace WebApplication1.Migrations
                         .IsRequired()
                         .HasColumnType("TEXT");
 
+                    b.Property<int>("Priority")
+                        .HasColumnType("INTEGER");
+
                     b.HasKey("Id");
 
                     b.ToTable("Contacts");
@@ -59,11 +62,12 @@ namespace WebApplication1.Migrations
                         {
                             Id = 1,
                             BirthDate = new DateOnly(2000, 11, 11),
-                            Created = new DateTime(2024, 11, 5, 13, 1, 14, 925, DateTimeKind.Local).AddTicks(9294),
+                            Created = new DateTime(2024, 11, 6, 15, 9, 5, 817, DateTimeKind.Local).AddTicks(9620),
                             Email = "jankowalski@op.pl",
                             FirstName = "Jan",
                             LastName = "Kowalski",
-                            PhoneNumber = "123 456 789"
+                            PhoneNumber = "123 456 789",
+                            Priority = 3
                         });
                 });
 #pragma warning restore 612, 618

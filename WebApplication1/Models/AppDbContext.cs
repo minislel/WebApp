@@ -28,7 +28,8 @@ namespace WebApplication1.Models
                     Email = "jankowalski@op.pl",
                     PhoneNumber = "123 456 789",
                     BirthDate = new DateOnly(2000, 11, 11),
-                    Created = DateTime.Now
+                    Created = DateTime.Now,
+                    Priority = Priority.High
                 }
                 
                 );
