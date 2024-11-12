@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
 
 namespace WebApplication1.Models
@@ -30,6 +32,7 @@ namespace WebApplication1.Models
         [Required(ErrorMessage = "Data urodzenia nie moze byc pusta")]
         [DataType(DataType.Date)]
         public DateOnly BirthDate { get; set; }
-
+        [HiddenInput] public int OrganizationId { get; set; }
+        [ValidateNever] public List<SelectListItem> Organizations { get; set; }
     }
 }

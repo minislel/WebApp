@@ -1,8 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebApplication1.Models
 {
+    [Table("contacts")]
+
     public class ContactEntity
     {
 
@@ -21,5 +24,7 @@ namespace WebApplication1.Models
         public DateOnly BirthDate { get; set; }
         public DateTime Created { get; set; }
         public Priority Priority { get; set; }
+        public int OrganizationId { get; set; }
+        public OrganizationEntity? Organization { get; set; }
     }
 }

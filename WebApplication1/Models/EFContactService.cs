@@ -25,6 +25,11 @@ namespace WebApplication1.Models
             return _context.Contacts.Select(e => ContactMapper.FromEntity(e)).ToList();
         }
 
+        public List<OrganizationEntity> FindAllOrganizations()
+        {
+            return _context.Organizations.ToList();
+        }
+
         public ContactModel? FindById(int id)
         {
            var entity = _context.Contacts.Find(id);

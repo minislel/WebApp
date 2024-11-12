@@ -7,5 +7,6 @@
         void Update(ContactModel contact);
         List<ContactModel> FindAll();
         ContactModel? FindById(int id);
+        List<OrganizationEntity> FindAllOrganizations();
     }
 }

@@ -40,6 +40,11 @@
             <span asp-validation-for="BirthDate" class="text-danger"></span>
 
         </div>
+        <div class="mb-4">
+                        <label class="form-label" asp-for="OrganizationId">Wybierz organizacje</label>
+                        <select class="form-control" asp-for="OrganizationId" asp-items="@Model.Organizations"></select>
+
+        </div>
         <div>
             <label asp-for="Priority"></label>
             <div>

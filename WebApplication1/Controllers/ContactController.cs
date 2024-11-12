@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
@@ -19,7 +20,16 @@ namespace WebApplication1.Controllers
         }
         public ActionResult Add() 
         { 
-            return View();
+            var model = new ContactModel();
+            model.Organizations = _contactService.FindAllOrganizations()
+                .Select(o => new SelectListItem() 
+                { 
+                    Value = o.Id.ToString(),
+                    Text = o.Name,
+                    Selected = o.Id == 1
+                }
+                ).ToList();
+            return View("Add", model);
         }
         [HttpPost]
         public ActionResult Add(ContactModel model) 

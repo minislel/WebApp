@@ -26,7 +26,8 @@
                 Email = model.Email,
                 PhoneNumber = model.PhoneNumber,
                 BirthDate = model.BirthDate,
-                Priority = model.Priority
+                Priority = model.Priority,
+                OrganizationId = model.OrganizationId
             };
         }
     }

@@ -20,6 +20,11 @@
             return _items.Values.ToList();
         }
 
+        public List<OrganizationEntity> FindAllOrganizations()
+        {
+            throw new NotImplementedException();
+        }
+
         public ContactModel? FindById(int id)
         {
             return _items.ContainsKey(id) ? _items[id] : null;
